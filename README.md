@@ -148,8 +148,3 @@ Keylogger-Bot/
 |------------|----------|
 | `TOKEN` | Токен Телеграм бота от @BotFather |
 | `CHAT_ID` | Ваш ID пользователя в Телеграм (куда будут отправляться логи) |
-
-## To-Do
-
-- Possibly rewrite the bot or add new features in the future
-- Возможно, дополню или перепишу бота в будущем
